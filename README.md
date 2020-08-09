@@ -96,6 +96,132 @@ For training we used:
 ![Winged Drone](/doc_images/misclassified_images_winged_drone.png)
 ![Flying Bird](/doc_images/misclassified_images_flying_bird.png)
 
+## Training and Test Logs:
+
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+EPOCH: 0
+
+Loss=0.8082740902900696 Batch_id=124 Accuracy=76.53: 100%|██████████| 125/125 [00:50<00:00,  2.46it/s]
+
+
+Test set: Average loss: 0.0101, Accuracy: 1513/2000 (75.65%)
+
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+EPOCH: 1
+
+Loss=0.59430330991745 Batch_id=124 Accuracy=80.09: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0102, Accuracy: 1513/2000 (75.65%)
+
+EPOCH: 2
+
+Loss=0.526368260383606 Batch_id=124 Accuracy=81.05: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0083, Accuracy: 1597/2000 (79.85%)
+
+EPOCH: 3
+
+Loss=0.23713454604148865 Batch_id=124 Accuracy=81.30: 100%|██████████| 125/125 [00:49<00:00,  2.50it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0096, Accuracy: 1543/2000 (77.15%)
+
+EPOCH: 4
+
+Loss=0.3365696370601654 Batch_id=124 Accuracy=81.66: 100%|██████████| 125/125 [00:49<00:00,  2.51it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0103, Accuracy: 1523/2000 (76.15%)
+
+EPOCH: 5
+
+Loss=0.7676298022270203 Batch_id=124 Accuracy=81.08: 100%|██████████| 125/125 [00:49<00:00,  2.50it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0107, Accuracy: 1501/2000 (75.05%)
+
+EPOCH: 6
+
+Loss=0.4119861423969269 Batch_id=124 Accuracy=82.99: 100%|██████████| 125/125 [00:50<00:00,  2.50it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0098, Accuracy: 1533/2000 (76.65%)
+
+EPOCH: 7
+
+Loss=0.40560612082481384 Batch_id=124 Accuracy=83.51: 100%|██████████| 125/125 [00:50<00:00,  2.50it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0104, Accuracy: 1518/2000 (75.90%)
+
+EPOCH: 8
+
+Loss=0.43818700313568115 Batch_id=124 Accuracy=83.66: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0087, Accuracy: 1571/2000 (78.55%)
+
+EPOCH: 9
+
+Loss=0.7182902693748474 Batch_id=124 Accuracy=83.03: 100%|██████████| 125/125 [00:50<00:00,  2.46it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0094, Accuracy: 1549/2000 (77.45%)
+
+EPOCH: 10
+
+Loss=0.4431827664375305 Batch_id=124 Accuracy=83.72: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0085, Accuracy: 1562/2000 (78.10%)
+
+EPOCH: 11
+
+Loss=0.26292145252227783 Batch_id=124 Accuracy=82.97: 100%|██████████| 125/125 [00:50<00:00,  2.48it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0090, Accuracy: 1552/2000 (77.60%)
+
+EPOCH: 12
+
+Loss=0.44260045886039734 Batch_id=124 Accuracy=83.53: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0090, Accuracy: 1566/2000 (78.30%)
+
+EPOCH: 13
+
+Loss=0.4930155575275421 Batch_id=124 Accuracy=83.65: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+  0%|          | 0/125 [00:00<?, ?it/s]
+
+
+Test set: Average loss: 0.0085, Accuracy: 1578/2000 (78.90%)
+
+EPOCH: 14
+
+Loss=0.3133634924888611 Batch_id=124 Accuracy=83.30: 100%|██████████| 125/125 [00:50<00:00,  2.49it/s]
+
+
+Test set: Average loss: 0.0091, Accuracy: 1555/2000 (77.75%)
+
+
+
 
 
 
