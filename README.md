@@ -91,10 +91,10 @@ For training we used:
 
 ## Misclassified Images (10 per class)
 
-![Large Quadcopter](/doc_images/misclassified_images_large_quadcopter)
-![Samll Quadcopter](/doc_images/misclassified_images_small_quadcopter)
-![Winged Drone](/doc_images/misclassified_images_winged_drone)
-![Flying Bird](/doc_images/misclassified_images_flying_bird)
+![Large Quadcopter](/doc_images/misclassified_images_large_quadcopter.png)
+![Samll Quadcopter](/doc_images/misclassified_images_small_quadcopter.png)
+![Winged Drone](/doc_images/misclassified_images_winged_drone.png)
+![Flying Bird](/doc_images/misclassified_images_flying_bird.png)
 
 
 
