@@ -83,6 +83,24 @@ For training we used:
 - Batch Size: 32
 
 
+## Training And Test Accuracy Plot
+
+![Accuracy Plots](/doc_images/accuracy_plot.png)
+
+
+
+## Misclassified Images (10 per class)
+
+![Large Quadcopter](/doc_images/misclassified_images_large_quadcopter)
+![Samll Quadcopter](/doc_images/misclassified_images_small_quadcopter)
+![Winged Drone](/doc_images/misclassified_images_winged_drone)
+![Flying Bird](/doc_images/misclassified_images_flying_bird)
+
+
+
+
+
+
 
 
 
