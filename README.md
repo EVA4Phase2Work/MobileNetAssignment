@@ -43,7 +43,7 @@ We did a split of 80:20 for train and test datasets
 
 Created separate Data Loaders for Train and Test. The workflow for Data Loader is as below:
 
-![Flowchart](/doc_images/data_loader_flowchart.png)
+![Flowchart](/doc_images/dataloader_flowchart.png)
 
 
 
